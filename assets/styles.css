@@ -99,6 +99,15 @@ body {
   padding: 6px;
 }
 .tag { font-size: 0.75rem; color: #2563eb; font-weight: 600; }
+.product-link { margin-top: 10px; }
+.product-link a {
+  display: inline-block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #2563eb;
+  text-decoration: none;
+}
+.product-link a:hover { text-decoration: underline; }
 
 /* ABOUT */
 /* =========================
