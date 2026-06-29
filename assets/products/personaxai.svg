@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- PersonaxAI - persona + AI spark (placeholder) -->
+  <circle cx="32" cy="22" r="10" fill="#7C3AED"/>
+  <path d="M14 54c0-10 8-16 18-16s18 6 18 16z" fill="#7C3AED"/>
+  <!-- AI spark -->
+  <path d="M48 10l2.2 5.8L56 18l-5.8 2.2L48 26l-2.2-5.8L40 18l5.8-2.2z" fill="#22D3EE"/>
+</svg>

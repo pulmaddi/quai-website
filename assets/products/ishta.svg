@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Ishta - abstract bloom/star mark (placeholder) -->
+  <path d="M32 6c4 9 9 14 18 18-9 4-14 9-18 18-4-9-9-14-18-18 9-4 14-9 18-18z" fill="#F59E0B"/>
+  <circle cx="32" cy="32" r="6" fill="#FFFFFF"/>
+  <circle cx="32" cy="32" r="3" fill="#F59E0B"/>
+</svg>
