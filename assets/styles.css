@@ -142,6 +142,8 @@ body {
   color: #2563eb;
   margin-top: 12px;
 }
+.product-points-emoji li { padding-left: 0; }
+.product-points-emoji li::before { content: none; }
 
 /* ABOUT */
 /* =========================
